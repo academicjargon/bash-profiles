@@ -1,3 +1,9 @@
+# .bash_profile and .bashrc are specific to bash
+# .profile is read by many shells in the absence of their own shell-specific config files. 
+# (.profile was used by the original Bourne shell.) 
+# .bash_profile or .profile is read by login shells, along with .bashrc 
+# subshells read only .bashrc
+
 # \033]01;31\] # pink 
 # \033]00m\]   # white 
 # \033]01;36\] # bold green 
