@@ -1,3 +1,9 @@
+# .bash_profile is a configuration file for bash shell. 
+# When bash is invoked as an interactive login shell it first reads and executes commands from ~/.bash_profile... 
+# This file can be used to export variables in shell. 
+# You can put your variables in ~/.bashrc also apart from bash profile
+# I use this on Mac
+
 alias VS="open -a 'Visual Studio Code.app'"
 alias vs="open -a 'Visual Studio Code.app'"
 alias VSC="open -a 'Visual Studio Code.app'"
