@@ -3,6 +3,7 @@
 # (.profile was used by the original Bourne shell.) 
 # .bash_profile or .profile is read by login shells, along with .bashrc 
 # subshells read only .bashrc
+# I don't use this.
 
 # \033]01;31\] # pink 
 # \033]00m\]   # white 
