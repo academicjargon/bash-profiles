@@ -1,3 +1,8 @@
+# .bashrc is a shell script that Bash runs whenever it is started interactively. 
+# It initializes an interactive shell session. 
+# You can put any command in that file that you could type at the command prompt.
+# I use this on PC
+
 # \033]01;31\] # pink 
 # \033]00m\]   # white
 # \033]01;36\] # bold green
